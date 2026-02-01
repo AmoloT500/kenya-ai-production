@@ -1,0 +1,8 @@
+{
+  "name": "KenyaAI",
+  "description": "Your ultimate AI-powered companion for exploring the vibrant culture, breathtaking landscapes, and rich heritage of Kenya. Get travel tips, learn Swahili, and visualize the beauty of the Savanna.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
